@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Hello Friend NG</title>
+        <link>/posts/</link>
+        <description>Recent content in Posts on Hello Friend NG</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 13 Nov 2019 20:16:34 +0200</lastBuildDate>
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>My First Post</title>
+            <link>/posts/my-first-post/</link>
+            <pubDate>Wed, 13 Nov 2019 20:16:34 +0200</pubDate>
+            
+            <guid>/posts/my-first-post/</guid>
+            <description>My first post!</description>
+            <content type="html"><![CDATA[<p>My first post!</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
