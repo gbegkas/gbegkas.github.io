@@ -6,10 +6,21 @@
     <description>Recent content on Welcome to the Dark Side</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Nov 2019 20:27:39 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2019 20:55:22 +0200</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Did You Ever Hear the Tragedy of Darth Plagueis the Wise?</title>
+      <link>/posts/did-you-ever-hear-the-tragedy-of-darth-plagueis-the-wise/</link>
+      <pubDate>Wed, 13 Nov 2019 20:55:22 +0200</pubDate>
+      
+      <guid>/posts/did-you-ever-hear-the-tragedy-of-darth-plagueis-the-wise/</guid>
+      <description>I thought not. It&amp;rsquo;s not a story the Jedi would tell you. It&amp;rsquo;s a Sith legend.
+Darth Plagueis was a Dark Lord of the Sith so powerful and so wise, he could use the Force to influence the midi-chlorians to create life. He had such a knowledge of the dark side, he could even keep the ones he cared about from dying.
+Unfortunately, he taught his apprentice everything he knew. Then his apprentice killed him in his sleep.</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -17,16 +28,7 @@
       <pubDate>Wed, 13 Nov 2019 20:27:39 +0200</pubDate>
       
       <guid>/about/</guid>
-      <description>This is the about page!</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>/posts/my-first-post/</link>
-      <pubDate>Wed, 13 Nov 2019 20:16:34 +0200</pubDate>
-      
-      <guid>/posts/my-first-post/</guid>
-      <description>My first post!</description>
+      <description> Unlimited POWER! </description>
     </item>
     
   </channel>

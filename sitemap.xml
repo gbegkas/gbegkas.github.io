@@ -3,37 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/did-you-ever-hear-the-tragedy-of-darth-plagueis-the-wise/</loc>
+    <lastmod>2019-11-13T20:55:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2019-11-13T20:55:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-11-13T20:55:22+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
     <lastmod>2019-11-13T20:27:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-11-13T20:27:39+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/blog-posts/</loc>
-    <lastmod>2019-11-13T20:16:34+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/my-first-post/</loc>
-    <lastmod>2019-11-13T20:16:34+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2019-11-13T20:16:34+02:00</lastmod>
+    <loc>/categories/</loc>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-11-13T20:16:34+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
   </url>
   
 </urlset>
